@@ -1,0 +1,6 @@
+/Users/christiaanventer/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/christiaanventer/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/christiaanventer/Projects/Calculator/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+/Users/christiaanventer/Projects/Calculator/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/christiaanventer/Projects/Calculator/Calculator/obj/Debug/Calculator.exe
+/Users/christiaanventer/Projects/Calculator/Calculator/obj/Debug/Calculator.pdb
